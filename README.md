@@ -7,5 +7,5 @@
 - MediaQueries
 - VSCode
 
-### Deploy:
+### Deploy 🏃
 https://gustavogss.github.io/Instagram/
